@@ -1,10 +1,10 @@
 # hi! i'm giorgio
 
-i'm not a developer, i just do those stuff that i need.
+i'm not a developer, i just do those stuff that i need
 
 ---
 
-### tools and languages (just in case)
+### tools and languages
 
 + vscode
 + markup languages
