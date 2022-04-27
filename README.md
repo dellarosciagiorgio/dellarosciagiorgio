@@ -19,5 +19,5 @@ i'm not a developer, i just do those stuff that i need
 
 ### contacts
 
-+ email: [mailto:dellarosciagiorgio@gmail.com](dellarosciagiorgio@gmail.com)
-+ linkedin: [https://www.linkedin.com/in/dellarosciagiorgio](dellarosciagiorgio)
++ email: [dellarosciagiorgio@gmail.com](mailto:dellarosciagiorgio@gmail.com)
++ linkedin: [dellarosciagiorgio](https://www.linkedin.com/in/dellarosciagiorgio)
