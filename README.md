@@ -1,6 +1,6 @@
 # Hi! I'm Giorgio
 
-I'm not a developer, I just do those stuff that I need
+I'm not a developer, I just do those stuff that I need.
 
 ---
 
@@ -14,6 +14,8 @@ I'm not a developer, I just do those stuff that I need
     + c
     + c#
     + c++
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
