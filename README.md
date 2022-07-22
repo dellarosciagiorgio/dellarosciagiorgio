@@ -15,11 +15,13 @@ I'm not a developer, I just do those stuff that I need.
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="imgs/github.png" alt="github" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="imgs/latex.png" alt="latex" width="32" height="32">
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="imgs/c.png" alt="c" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="imgs/c-sharp.png" alt="c#" width="32" height="32">
+    <img src="imgs/c-sharp.png" alt="c-sharp" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="imgs/cpp.png" alt="c++" width="32" height="32">
+    <img src="imgs/cpp.png" alt="cpp" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="imgs/python.png" alt="python" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
