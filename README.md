@@ -23,8 +23,6 @@ i'm not a developer, i just do those stuff that i need.
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="imgs/cpp.png" alt="cpp" title="cpp" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="imgs/python.png" alt="python" title="python" width="32" height="32">
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="imgs/java.png" alt="java" title="java" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="imgs/html.png" alt="html" title="html" width="32" height="32">
