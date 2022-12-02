@@ -9,6 +9,8 @@ i'm not a developer, i just do those stuff that i need.
 <p float="left">
     <img src="imgs/linux.png" alt="linux" title="linux" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="imgs/bash.png" alt="bash" title="bash" width="32" height="32">
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="imgs/vscode.png" alt="vscode" title="vscode" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="imgs/git.png" alt="git" title="git" width="32" height="32">
