@@ -13,17 +13,11 @@ i'm not a developer, i just do those stuff that i need.
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="imgs/vscode.png" alt="vscode" title="vscode" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="imgs/git.png" alt="git" title="git" width="32" height="32">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="imgs/github.png" alt="github" title="github" width="32" height="32">
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="imgs/latex.png" alt="latex" title="latex" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="imgs/c.png" alt="c" title="c" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="imgs/c-sharp.png" alt="c-sharp" title="c-sharp" width="32" height="32">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="imgs/cpp.png" alt="cpp" title="cpp" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="imgs/java.png" alt="java" title="java" width="32" height="32">
     &nbsp;&nbsp;&nbsp;&nbsp;
